@@ -1,5 +1,7 @@
 # Edge Sub
 
+# **discontinued due to inactivity**
+
 在 CloudFlare 的全球網絡上轉換您的代理訂閱.
 
 請為我點一個 ⭐ Star!
